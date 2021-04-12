@@ -1,0 +1,23 @@
+{
+  "name": "SDV503-lab-Six-xHoward-Apoorv",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/XUANHAOWANG/SDV503-lab-Six-xHoward-Apoorv.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/XUANHAOWANG/SDV503-lab-Six-xHoward-Apoorv/issues"
+  },
+  "homepage": "https://github.com/XUANHAOWANG/SDV503-lab-Six-xHoward-Apoorv#readme",
+  "dependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
