@@ -40,12 +40,14 @@ function filterArr(str){
 
  //getCount
 
-
+let likeNumber=100
+dislikeNumber=50
  const counts={    
-    like:a,
-    dislike:b,
-feedBack:total=a-b
+    like:likeNumber,
+    dislike:dislikeNumber,
+feedBack:likeNumber-dislikeNumber
 }
+
 console.log(counts)
  
 
